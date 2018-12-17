@@ -10,14 +10,6 @@
   "bugs": {
     "url": "https://github.com/ruettenm/phonegap-mobile-accessibility/issues"
   },
-  "cordova": {
-    "id": "phonegap-plugin-mobile-accessibility",
-    "platforms": [
-      "ios",
-      "android",
-      "windows"
-    ]
-  },
   "keywords": [
     "phonegap",
     "mobile accessibility",
@@ -25,12 +17,6 @@
     "cordova-ios",
     "cordova-android",
     "cordova-windows"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
   ],
   "author": "Adobe PhoneGap Team",
   "license": "Apache 2.0"
